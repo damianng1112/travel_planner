@@ -44,9 +44,7 @@ travel-itinerary/
 
 ## 🛠 Future Enhancements (Optional Ideas)
 
-- ✏️ Edit itinerary entries
 - 🗃 Export to PDF or CSV
-- 📍 Add location support (Google Maps links)
 - 🌐 Deploy online with GitHub Pages or Netlify
 
 ---
