@@ -15,11 +15,13 @@ This is a lightweight, personal-use travel itinerary website that lets you easil
 
 ## 📂 File Structure
 
+```
 travel-itinerary/
-├── index.html # Main HTML page
-├── style.css # Styles for the UI
-├── script.js # JS logic for managing entries
-└── README.md # This file
+├── index.html     # Main HTML structure
+├── style.css      # Styling for the user interface
+├── script.js      # JavaScript for logic and storage
+└── README.md      # Project documentation
+```
 
 ---
 
